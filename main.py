@@ -21,25 +21,25 @@ Rexinazor = Client(
 START_TEXT = """
 Hello {}, I am a image background remover bot. Send me a photo I will send the photo without background.
 
-Made by [BioHazard Bots](t.me/BioHazard_Bots).
+Made by [ᴅᴀɴɢᴇʀ ʙᴏᴛs ](https://t.me/danger_bots).
 """
 HELP_TEXT = """
 - Just send me a photo
 - I will download it
 - I will send the photo without background
 
-Made by [BioHazard Bots](t.me/BioHazard_Bots).
+Made by [ᴅᴀɴɢᴇʀ ʙᴏᴛs ](https://t.me/danger_bots).
 """
 ABOUT_TEXT = """
 - **Bot :** `Backround Remover Bot`
-- **Creator :** [Divyash](https://t.me/Avrazel)
-- **Channel :** [BioHazard Bots](https://t.me/BioHazard_Bots)
-- **Fedration :** [BioHazard Network](https://t.me/TheHazardNetwork)
+- **Creator :** [𝗔𝗻𝗼𝗻𝘆𝗺𝗼𝘂𝘀么𝗸𝗶𝗱](https://t.me/danger_of_telegram)
+- **Channel :** [ᴅᴀɴɢᴇʀ ʙᴏᴛs](https://t.me/danger_Bots)
+- **support :** [TG Danger_Bots Support ✫](https://t.me/dangerbots)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Updates', url='https://telegram.me/BioHazard_Bots'),
-        InlineKeyboardButton('Support', url='https://telegram.me/BHZBot_Support')
+        InlineKeyboardButton('Updates', url='https://telegram.me/danger_Bots'),
+        InlineKeyboardButton('Support', url='https://telegram.me/dangerbots')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
@@ -68,7 +68,7 @@ ERROR_BUTTONS = InlineKeyboardMarkup(
     )
 BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Join Updates Channel', url='https://t.me/BioHazard_Bots')
+        InlineKeyboardButton('Join Updates Channel', url='https://t.me/danger_Bots')
         ]]
     )
 
